@@ -329,7 +329,7 @@
             "card_offer_ids": ["10134", "10132"],
             "image_url": "https://m.media-amazon.com/images/I/71o1csyQILL._AC_UL150_FMwebp_QL65_.jpg",
             "description": "Free Delivery | Get it by **Tuesday, 7 December**\n10 days Replacement",
-            "colors": ["green", "blue", "red", "orange"]
+            "colors": ["green", "blue", "red", "gray"]
         },
         {
             "id": "200025",
@@ -341,7 +341,7 @@
             "card_offer_ids": ["10132"],
             "image_url": "https://m.media-amazon.com/images/I/61IiuWQcVjL._AC_UL150_FMwebp_QL65_.jpg",
             "description": "Free Delivery | To view the demo, [click on this link](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) for a live experience\n10 days Replacement",
-            "colors": ["blue", "red", "green", "orange"]
+            "colors": ["blue", "red", "green", "gray"]
         },
         {
             "id": "200026",
@@ -377,7 +377,7 @@
             "card_offer_ids": ["10132"],
             "image_url": "https://m.media-amazon.com/images/I/81TeaKroXqL._AC_UL150_QL65_.jpg",
             "description": "Free Delivery | For pricing details, [click here](https://developer.apple.com/documentation/uikit/uiscrollview) to learn more.\n10 days Replacement",
-            "colors": ["white", "orange", "blue"]
+            "colors": ["white", "gray", "blue"]
         },
         {
             "id": "200029",
