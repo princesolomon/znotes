@@ -212,7 +212,7 @@
             "rating": 3.9,
             "review_count": 768,
             "price": 349,
-            "category_id": ["100023"],
+            "category_id": "100023",
             "card_offer_ids": [],
             "image_url": "https://books.google.co.in/books/content?id=aCgVAAAAYAAJ&pg=PA3&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U3lBIBB2rsBvgkVSHfIYKpy-mVrkA&w=200",
             "description": "Free Delivery | Get it by **Friday, 10 November**\n10 days Replacement"
