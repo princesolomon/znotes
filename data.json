@@ -292,7 +292,8 @@
             "category_id": "100024",
             "card_offer_ids": ["10132"],
             "image_url": "https://www.reliancedigital.in/medias/OnePlus-Nord-CE3-Mobile-Phone-493838774-i-1-200Wx200H?context=bWFzdGVyfGltYWdlc3wzMDcyMTR8aW1hZ2UvanBlZ3xpbWFnZXMvaGIxL2gzMy8xMDAzMDc5NTU4NzYxNC5qcGd8NWNkM2M0NjdkNDU3YTU5OWI1NTg1NWExZjdiNmRjYWYxZDc1ODNjMjJiNTVmOGUxNmFlZTJjMWIwZWYyOTdjNg",
-            "description": "Free Delivery | Get it by **Saturday, 4 December**\n10 days Replacement"
+            "description": "Free Delivery | Get it by **Saturday, 4 December**\n10 days Replacement",
+            "colors": ["black", "green", "blue", "orange"]
         },
         {
             "id": "200022",
@@ -303,7 +304,8 @@
             "category_id": "100024",
             "card_offer_ids": ["11236", "10132"],
             "image_url": "https://m.media-amazon.com/images/I/61pCckLFszL._SY200_.jpg",
-            "description": "Free Delivery | Get it by **Sunday, 5 December**\n10 days Replacement"
+            "description": "Free Delivery | Get it by **Sunday, 5 December**\n10 days Replacement",
+            "colors": ["black", "white", "blue", "gray"]
         },
         {
             "id": "200023",
@@ -314,7 +316,8 @@
             "category_id": "100024",
             "card_offer_ids": [],
             "image_url": "https://m.media-amazon.com/images/I/81ZV6G2iRrL._AC_UL100_FMwebp_QL65_.jpg",
-            "description": "Free Delivery | Get it by **Monday, 6 December**\n10 days Replacement"
+            "description": "Free Delivery | Get it by **Monday, 6 December**\n10 days Replacement",
+            "colors": ["black", "yellow"]
         },
         {
             "id": "200024",
@@ -325,7 +328,8 @@
             "category_id": "100024",
             "card_offer_ids": ["10134", "10132"],
             "image_url": "https://m.media-amazon.com/images/I/71o1csyQILL._AC_UL150_FMwebp_QL65_.jpg",
-            "description": "Free Delivery | Get it by **Tuesday, 7 December**\n10 days Replacement"
+            "description": "Free Delivery | Get it by **Tuesday, 7 December**\n10 days Replacement",
+            "colors": ["green", "blue", "red", "orange"]
         },
         {
             "id": "200025",
@@ -336,7 +340,8 @@
             "category_id": "100024",
             "card_offer_ids": ["10132"],
             "image_url": "https://m.media-amazon.com/images/I/61IiuWQcVjL._AC_UL150_FMwebp_QL65_.jpg",
-            "description": "Free Delivery | To view the demo, [click on this link](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) for a live experience\n10 days Replacement"
+            "description": "Free Delivery | To view the demo, [click on this link](https://developer.apple.com/documentation/uikit/uiview/1622415-clipstobounds) for a live experience\n10 days Replacement",
+            "colors": ["blue", "red", "green", "orange"]
         },
         {
             "id": "200026",
@@ -347,7 +352,8 @@
             "category_id": "100024",
             "card_offer_ids": ["10134"],
             "image_url": "https://m.media-amazon.com/images/I/71waR9n2enL._AC_UL150_QL65_.jpg",
-            "description": "Free Delivery | Get it by **Saturday, 4 December**\n10 days Replacement"
+            "description": "Free Delivery | Get it by **Saturday, 4 December**\n10 days Replacement",
+            "colors": ["purple", "maroon"]
         },
         {
             "id": "200027",
@@ -358,7 +364,8 @@
             "category_id": "100024",
             "card_offer_ids": ["11236"],
             "image_url": "https://m.media-amazon.com/images/I/81jeBCCEzXL._AC_UL150_QL65_.jpg",
-            "description": "Free Delivery | Get it by **Friday, 5 December**"
+            "description": "Free Delivery | Get it by **Friday, 5 December**",
+            "colors": ["black", "red", "teal"]
         },
         {
             "id": "200028",
@@ -369,7 +376,8 @@
             "category_id": "100024",
             "card_offer_ids": ["10132"],
             "image_url": "https://m.media-amazon.com/images/I/81TeaKroXqL._AC_UL150_QL65_.jpg",
-            "description": "Free Delivery | For pricing details, [click here](https://developer.apple.com/documentation/uikit/uiscrollview) to learn more.\n10 days Replacement"
+            "description": "Free Delivery | For pricing details, [click here](https://developer.apple.com/documentation/uikit/uiscrollview) to learn more.\n10 days Replacement",
+            "colors": ["white", "orange", "blue"]
         },
         {
             "id": "200029",
@@ -380,7 +388,8 @@
             "category_id": "100024",
             "card_offer_ids": ["11236", "10132"],
             "image_url": "https://m.media-amazon.com/images/I/71UCRQ9+CrL._AC_UL150_QL65_.jpg",
-            "description": "Free Delivery | To contact our support team, [click this link](https://developer.apple.com/documentation/uikit/uitableview) for assistance.\n10 days Replacement"
+            "description": "Free Delivery | To contact our support team, [click this link](https://developer.apple.com/documentation/uikit/uitableview) for assistance.\n10 days Replacement",
+            "colors": []
         },
         {
             "id": "200030",
@@ -391,7 +400,8 @@
             "category_id": "100024",
             "card_offer_ids": [],
             "image_url": "https://m.media-amazon.com/images/I/61JS7lF2aqL._AC_UL150_QL65_.jpg",
-            "description": "Free Delivery | Get it by **Wednesday, 8 December**\n10 days Replacement"
+            "description": "Free Delivery | Get it by **Wednesday, 8 December**\n10 days Replacement",
+            "colors": ["purple", "yellow"]
         },
         {
             "id": "200031",
